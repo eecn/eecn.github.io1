@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://eecn.github.io</id>
+    <title>Wang Ke</title>
+    <updated>2022-01-24T05:55:39.429Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://eecn.github.io"/>
+    <link rel="self" href="https://eecn.github.io/atom.xml"/>
+    <subtitle>Do positive things!</subtitle>
+    <logo>https://eecn.github.io/images/avatar.png</logo>
+    <icon>https://eecn.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Wang Ke</rights>
+    <entry>
+        <title type="html"><![CDATA[毕业]]></title>
+        <id>https://eecn.github.io/post/biye/</id>
+        <link href="https://eecn.github.io/post/biye/">
+        </link>
+        <updated>2019-06-19T10:49:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>研究生三年时间很快，有收获，有遗憾，总的来说遗憾更多些。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>研究生三年时间很快，有收获，有遗憾，总的来说遗憾更多些。</p>
+<!-- more -->
+<p>入场踌躇满志，意气风发。出场结局平淡，些许遗憾。就个人的自我满足和充实而言。总结起来可以说是常怀一颗进取心，常行摸鱼打趣事。</p>
+<p>毛伟人离家时写下“孩儿立志出乡关，学不成名誓不还。”的激扬文字，恰同学少年，风华正茂。我自不能企及半分，但是立足自己的规划还是有做过。之前开的公众号“研途Happy”也有做过些年度总结，学习规划等。然而一暴十寒。</p>
+<p>利用闲暇之际给这个有些许遗憾的时光做一个总结。</p>
+<p>无非两处，专业技能与综合修养。个人愚见，学习能力养成应是学习能力最重要的素养。深究一个研究方向有所建树最佳，期间养成适合自己的学习方法应该是研究生阶段最为重要的目标。要是给我的表现打分，十分满分只能得三四分。甚至于学习素养不及入学前的状态，三心二意没有认真做好一件科研工作。希望未来自己加油弥补遗憾。充实好未来的工作学习生活，我有信心。</p>
+<p>说到自己的综合修养，相信自己能够比较好地适应小社会的生活。有人出世放飞自我，有人入世面善心伪，都有所体会，也为未来工作生活提供了经验。硕士期间两段感情都算是有些遗憾，是自己太作，在感情上还是不够成熟。今后切记不要意气用事，活的洒脱一些。要有男人该有的高亮品质和气节。</p>
+<p>总觉的自己还是处于一个三观养成的阶段，应了屁股决定脑袋那句话。有很多关注到自己本身发展的东西都成了随波逐流。不忘初心方得始终，言之凿凿，行之艰难。写博客的想法也是希望自己可以坚持下来，给浮躁的自己一个冷静沉淀的时刻。</p>
+<p>未来加油！</p>
+<p>写于2020年6月19日</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://eecn.github.io/post/hello-gridea/</id>
+        <link href="https://eecn.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
