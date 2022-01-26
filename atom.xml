@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://eecn.github.io</id>
     <title>Wang Ke</title>
-    <updated>2022-01-24T05:59:39.476Z</updated>
+    <updated>2022-01-26T13:12:23.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://eecn.github.io"/>
     <link rel="self" href="https://eecn.github.io/atom.xml"/>
@@ -10,6 +10,27 @@
     <logo>https://eecn.github.io/images/avatar.png</logo>
     <icon>https://eecn.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Wang Ke</rights>
+    <entry>
+        <title type="html"><![CDATA[关于坚持]]></title>
+        <id>https://eecn.github.io/post/guan-yu-jian-chi/</id>
+        <link href="https://eecn.github.io/post/guan-yu-jian-chi/">
+        </link>
+        <updated>2022-01-26T12:41:59.000Z</updated>
+        <summary type="html"><![CDATA[<p>ARTS是Algorithm, Review, Tip, Share的简写，源于一个编程算法训练计划。主要含义是：每周做一道算法题目；每周阅读一篇技术文章；每周学习一个技术技巧；每周分享一篇技术文章。心里又暗暗下定决心要试一试。是的,又是一个有关坚持的故事...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>ARTS是Algorithm, Review, Tip, Share的简写，源于一个编程算法训练计划。主要含义是：每周做一道算法题目；每周阅读一篇技术文章；每周学习一个技术技巧；每周分享一篇技术文章。心里又暗暗下定决心要试一试。是的,又是一个有关坚持的故事...</p>
+<!-- more -->
+<p>关于坚持，很喜欢健身软件KEEP的宣传语“自律给我自由”。曾经我也有很多很多计划，坚持记日记、坚持读书、坚持健身、坚持写博客......定了好多计划很少有能坚持下来的，过程中还多了许多焦虑和挫败感。在我身上关于坚持和放弃的剧情还在反复上演。似乎还没有达到一个很好的平衡。但是一个平和包容的态度能让你更加积极面对，一步步进步。</p>
+<p>知乎上KY(KnowYoutself)回答过关于“如何坚持做好一件事？”：1）选择一件适合坚持的事；2） 学会一些可行的方法。“合适”包括吸引力足够强（兴趣使然，目标价值对自己而言高等），阶段性的可实现，可执行性（目标足够细化）。可行的方法主要是抛开具体事情针对思维和行动上的方法。思维上包括与过去和未来的自己共情，放下对完美主义式的坚持等；行动上建立激励机制和社会强化等。</p>
+<p>静心想想，很多计划定的有点高，让自己成了苦行僧，结果没能坚持下来，留下的挫败感反而增加了自己的负面情绪。似乎不停的在轮回......当心态改变，就能够泰然自若，平静对待。健身不一定要减肥，看书不一定要增长专业技术，写博客不一定要按固定频率等等，少一些功利反而更能坚持下来了。与过去的自己和解，“我与我周旋久，宁作我”。</p>
+<p>最后借KY的原回答送给即将初三的妹妹<br>
+引用：<a href="https://www.zhihu.com/question/304988611/answer/569852651">如何长期坚持做好一件事？ - KnowYourself的回答 - 知乎</a></p>
+<p>坚持这件事，美在你努力地跨过了漫漫岁月；坚持并不会因为你一次的失误、一次的懈怠就彻底失败，关键的是，要允许自己在坚持的过程中有犹豫、有懈怠、有一时的失败。<br>
+因为长时间的坚持常常是，你有时走得快、有时走得慢，有时在前进、有时在后退，无论多么曲曲折折，你仍在一点点坚持在路上，离最后的目的地越来越近。</p>
+<p>最后借KY的原回答送给即将初三的妹妹<br>
+引用：如何长期坚持做好一件事？ - KnowYourself的回答 - 知乎</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[毕业]]></title>
         <id>https://eecn.github.io/post/biye/</id>
